@@ -1,3 +1,3 @@
 # code-samples
 
-Portfolio of code samples for reference and revision by potential employers.
+Portfolio of code samples for potential employers.
